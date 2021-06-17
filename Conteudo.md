@@ -53,7 +53,7 @@
   - [x] [Form: Conhecendo um pouco mais sobre os estudantes](https://docs.google.com/forms/d/e/1FAIpQLSf70sb-wDnvj5ivQ3zWzMi-2UjcTFKH_QhKCtDtDBd2roWgnA/viewform?usp=sf_link) 
 
 ### História dos computadores e da computação
-- [ ] [Video e Form: História dos computadores e da computação](https://docs.google.com/forms/d/e/1FAIpQLScOYTaxhf2sOcDbqloUREC3AHIAL_Ll9CNFlwWUW58TwYJLBw/viewform?usp=sf_link)
+- [x] [Video e Form: História dos computadores e da computação](https://docs.google.com/forms/d/e/1FAIpQLScOYTaxhf2sOcDbqloUREC3AHIAL_Ll9CNFlwWUW58TwYJLBw/viewform?usp=sf_link)
 ### Algoritmos 
 - [x] [Anotações](https://github.com/ect-info/material-didatico/blob/master/apostila/algoritmos.md) 
 - [x] [Slides: Algortitmos e Lógica](https://drive.google.com/file/d/1LAYijCMONAspumF1MBx53H6UEXaHCykH/view?usp=sharing)
@@ -65,8 +65,8 @@
   - [x] [Algoritmos](https://www.youtube.com/watch?v=4E7DSsLvHWw) 
   - [x] [Representação de algoritmos](https://www.youtube.com/watch?v=k12jLb2-wvY)
 ### Expressões, variáveis e outros 
-* [Slides: Expressões, variáveis, tipos de dados e Entrada e saída de Dados](https://docs.google.com/presentation/d/19zKnIfE_nd6YtAXLNktDTDnO4jvaJQ6jsFotvS3K89g/edit?usp=sharing) 
-* [Vídeo e Form](https://docs.google.com/forms/d/e/1FAIpQLSdLh6r5X7ajBE9IuHBHzUshmPTMWnoBk083d9Rq9AOwjRpT9A/viewform?usp=sf_link)
+- [x] [Slides: Expressões, variáveis, tipos de dados e Entrada e saída de Dados](https://docs.google.com/presentation/d/19zKnIfE_nd6YtAXLNktDTDnO4jvaJQ6jsFotvS3K89g/edit?usp=sharing) 
+- [x] [Vídeo e Form](https://docs.google.com/forms/d/e/1FAIpQLSdLh6r5X7ajBE9IuHBHzUshmPTMWnoBk083d9Rq9AOwjRpT9A/viewform?usp=sf_link)
 
 ### Preparando para prática 
 Vídeos complementares:
